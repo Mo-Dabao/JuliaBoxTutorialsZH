@@ -8,8 +8,12 @@
 - introductory-tutorials
     - intro-to-julia
         - short-version
-            - 00.Jupyter_notebooks.ipynb
-            - 01.Getting_to_know_Julia.ipynb
+            - [上手Jupyter notebook](./introductory-tutorials/intro-to-julia/short-version/00.Jupyter_notebooks.ipynb)
+            - [了解Julia](./introductory-tutorials/intro-to-julia/short-version/01.Getting_to_know_Julia.ipynb)
+            - [Julia中的线性代数](./introductory-tutorials/intro-to-julia/short-version/02.Linear_Algebra.ipynb)
+
+待解决： <br>
+- [Julia中的线性代数](./introductory-tutorials/intro-to-julia/short-version/02.Linear_Algebra.ipynb)中最后一段涉及到矩阵的优化存储？暂未翻译
 
 QQ群：[247327005](//shang.qq.com/wpa/qunwpa?idkey=bf9e68557bea4360bee85980a1cfc67fced4343063b3c430cf6c9d57f14a4229)
 
