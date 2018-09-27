@@ -12,6 +12,7 @@
             - [了解Julia](./introductory-tutorials/intro-to-julia/short-version/01.Getting_to_know_Julia.ipynb)
             - [Julia中的线性代数](./introductory-tutorials/intro-to-julia/short-version/02.Linear_Algebra.ipynb)
             - [包的使用](./introductory-tutorials/intro-to-julia/short-version/03.Using_packages.ipynb)
+            - [Julia绘图简介](./introductory-tutorials/intro-to-julia/short-version/04.Intro_to_plotting.ipynb)
 
 待解决： <br>
 - [Julia中的线性代数](./introductory-tutorials/intro-to-julia/short-version/02.Linear_Algebra.ipynb)中最后一段涉及到矩阵的优化存储？暂未翻译
