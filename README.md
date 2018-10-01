@@ -13,9 +13,11 @@
             - [Julia中的线性代数](./introductory-tutorials/intro-to-julia/short-version/02.Linear_Algebra.ipynb)
             - [包的使用](./introductory-tutorials/intro-to-julia/short-version/03.Using_packages.ipynb)
             - [Julia绘图简介](./introductory-tutorials/intro-to-julia/short-version/04.Intro_to_plotting.ipynb)
+            - [Julia很快](./introductory-tutorials/intro-to-julia/short-version/05.Julia_is_fast.ipynb)
 
 待解决： <br>
 - [Julia中的线性代数](./introductory-tutorials/intro-to-julia/short-version/02.Linear_Algebra.ipynb)中最后一段涉及到矩阵的优化存储？暂未翻译
+- [Julia很快](./introductory-tutorials/intro-to-julia/short-version/05.Julia_is_fast.ipynb)在Windows下没有装gcc，所以没有测试，担心各种多余且重复的Python包安装在C盘Python也没有测试
 
 <br><br>
 QQ群：[247327005](//shang.qq.com/wpa/qunwpa?idkey=bf9e68557bea4360bee85980a1cfc67fced4343063b3c430cf6c9d57f14a4229)
