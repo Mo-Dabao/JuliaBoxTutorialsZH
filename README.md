@@ -8,12 +8,13 @@
 - introductory-tutorials
     - intro-to-julia
         - short-version
-            - [上手Jupyter notebook](./introductory-tutorials/intro-to-julia/short-version/00.Jupyter_notebooks.ipynb)
-            - [了解Julia](./introductory-tutorials/intro-to-julia/short-version/01.Getting_to_know_Julia.ipynb)
-            - [Julia中的线性代数](./introductory-tutorials/intro-to-julia/short-version/02.Linear_Algebra.ipynb)
-            - [包的使用](./introductory-tutorials/intro-to-julia/short-version/03.Using_packages.ipynb)
-            - [Julia绘图简介](./introductory-tutorials/intro-to-julia/short-version/04.Intro_to_plotting.ipynb)
-            - [Julia很快](./introductory-tutorials/intro-to-julia/short-version/05.Julia_is_fast.ipynb)
+            - [00.上手Jupyter notebook](./introductory-tutorials/intro-to-julia/short-version/00.Jupyter_notebooks.ipynb)
+            - [01.了解Julia](./introductory-tutorials/intro-to-julia/short-version/01.Getting_to_know_Julia.ipynb)
+            - [02.Julia中的线性代数](./introductory-tutorials/intro-to-julia/short-version/02.Linear_Algebra.ipynb)
+            - [03.包的使用](./introductory-tutorials/intro-to-julia/short-version/03.Using_packages.ipynb)
+            - [04.Julia绘图简介](./introductory-tutorials/intro-to-julia/short-version/04.Intro_to_plotting.ipynb)
+            - [05.Julia很快](./introductory-tutorials/intro-to-julia/short-version/05.Julia_is_fast.ipynb)
+            - [06.多重派发](./introductory-tutorials/intro-to-julia/short-version/06.Multiple_dispatch.ipynb)
 
 待解决： <br>
 - [Julia中的线性代数](./introductory-tutorials/intro-to-julia/short-version/02.Linear_Algebra.ipynb)中最后一段涉及到矩阵的优化存储？暂未翻译
