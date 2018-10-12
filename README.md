@@ -19,10 +19,14 @@
         - [01.新手入门](./introductory-tutorials/intro-to-julia-ZH/01.新手入门.ipynb)
         - [02.字符串](./introductory-tutorials/intro-to-julia-ZH/02.字符串.ipynb)
         - [03.数据结构](./introductory-tutorials/intro-to-julia-ZH/03.数据结构.ipynb)
+        - [04.循环.ipynb](./introductory-tutorials/intro-to-julia-ZH/04.循环.ipynb.ipynb)
+        - [05.条件判断](./introductory-tutorials/intro-to-julia-ZH/05.条件判断.ipynb)
+        - [06.函数](./introductory-tutorials/intro-to-julia-ZH/06.函数.ipynb)（与简短版略有区别）
         - [07.包（Packages）](./introductory-tutorials/intro-to-julia-ZH/07.包（Packages）.ipynb)（比简短版多了练习）
         - [08.绘图](./introductory-tutorials/intro-to-julia-ZH/08.绘图.ipynb)（与简短版略有区别）
         - [09.Julia很快](./introductory-tutorials/intro-to-julia-ZH/09.Julia很快.ipynb)（与简短版重复）
         - [10.多重派发](./introductory-tutorials/intro-to-julia-ZH/10.多重派发.ipynb)（与简短版略有区别）
+        - [10.1多重派发](./introductory-tutorials/intro-to-julia-ZH/10.1多重派发.ipynb)（与简短版略有区别）
 
 [这个是fork过来的](https://github.com/Mo-Dabao/JuliaBoxTutorials)，俩是一样的
 
