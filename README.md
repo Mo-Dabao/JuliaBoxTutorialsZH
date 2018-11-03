@@ -27,14 +27,14 @@
         - [09.Julia很快](./introductory-tutorials/intro-to-julia-ZH/09.Julia很快.ipynb)（与简短版重复）
         - [10.多重派发](./introductory-tutorials/intro-to-julia-ZH/10.多重派发.ipynb)（与简短版略有区别）
         - [10.1多重派发](./introductory-tutorials/intro-to-julia-ZH/10.1多重派发.ipynb)（与简短版略有区别）
+        - [11.基本线性代数](./introductory-tutorials/intro-to-julia-ZH/11.基本线性代数.ipyb)
 
 [这个是fork过来的](https://github.com/Mo-Dabao/JuliaBoxTutorials)，俩是一样的
 
 待解决： <br>
 - [02.Julia中的线性代数](./introductory-tutorials/intro-to-julia/short-version/02.Linear_Algebra.ipynb)中最后一段涉及到矩阵的优化存储？暂未翻译
 - [05.Julia很快](./introductory-tutorials/intro-to-julia/short-version/05.Julia_is_fast.ipynb)在Windows下没有装gcc，所以没有测试，担心各种多余且重复的Python包安装在C盘Python也没有测试
-- [01.新手入门](./introductory-tutorials/intro-to-julia/01.Getting_started.ipynb)等最后的`Validate`不知道是什么
-
+- 线性代数让我懵逼，第12篇因子分解啥的不懂
 
 <br><br>
 QQ群：[247327005](//shang.qq.com/wpa/qunwpa?idkey=bf9e68557bea4360bee85980a1cfc67fced4343063b3c430cf6c9d57f14a4229)
