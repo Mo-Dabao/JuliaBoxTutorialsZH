@@ -36,6 +36,4 @@
 - [05.Julia很快](./introductory-tutorials/intro-to-julia/short-version/05.Julia_is_fast.ipynb)在Windows下没有装gcc，所以没有测试，担心各种多余且重复的Python包安装在C盘Python也没有测试
 - 线性代数让我懵逼，第12篇因子分解啥的不懂
 
-<br><br>
-QQ群：[247327005](//shang.qq.com/wpa/qunwpa?idkey=bf9e68557bea4360bee85980a1cfc67fced4343063b3c430cf6c9d57f14a4229)
 
